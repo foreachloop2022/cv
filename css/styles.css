@@ -39,6 +39,13 @@ hr {
 
 a{
   color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+
+}
+
+a:hover{
+  color: #EAF6F6;
 }
 .intro {
   width: 30%;
@@ -158,4 +165,11 @@ a{
 
 .footer-link{
   margin-bottom: 40px;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+
 }
